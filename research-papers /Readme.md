@@ -1,10 +1,5 @@
-# LLM, RAG & Agentic AI — Foundational Reading Roadmap
 
-A chronological, dependency-ordered reading path through the research and resources that shaped modern LLMs, Retrieval-Augmented Generation, and Agentic AI systems. Each entry builds on the concepts introduced before it — read top to bottom.
-
----
-
-## Prerequisite Material (start here if new to the field)
+## Prerequisite Material (beginner)
 
 Read/watch alongside Phase 1, not instead of it. These give you the vocabulary the papers assume you already have.
 
@@ -66,7 +61,7 @@ By this point you understand *how LLMs are built*. This phase covers *how they'r
 
 ## Advanced RAG (2022–2023)
 
-Now that you understand base RAG (#6–8) and reasoning (#11), this phase covers the techniques your **Advanced RAG Pipeline** project is directly built on.
+Now that you understand base RAG (#6–8) and reasoning (#11), this phase covers the techniques on **Advanced RAG Pipeline** project.
 
 13. **"HyDE: Precise Zero-Shot Dense Retrieval without Relevance Labels"** — Gao et al., 2022
     *Hypothetical Document Embeddings — generate a fake answer first, embed that for retrieval. A now-common trick in advanced pipelines.*
