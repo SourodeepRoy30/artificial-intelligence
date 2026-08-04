@@ -136,19 +136,3 @@ These aren't papers — they're the "how do I actually build this" layer. Dip in
 - **Hugging Face Daily Papers** (ongoing)
   *For tracking anything published after this list — check periodically once you've finished Phases 1–4.*
 
----
-
-## Suggested Pace
-
-| Phase | Focus | Est. time (part-time study) |
-|---|---|---|
-| 0 | Course prerequisites | Ongoing background |
-| 1 | LLM architecture foundations | 1–1.5 weeks |
-| 2 | Alignment & reasoning | 1 week |
-| 3 | Advanced RAG | 1 week |
-| 4 | Agentic AI foundations | 1–1.5 weeks |
-| 5 | Applied resources | Continuous, alongside implementation |
-
----
-
-*Compiled as a study roadmap supporting the Advanced RAG Pipeline and LangGraph Multi-Agent Research Assistant portfolio projects.*
