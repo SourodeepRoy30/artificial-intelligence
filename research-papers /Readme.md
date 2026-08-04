@@ -4,7 +4,7 @@ A chronological, dependency-ordered reading path through the research and resour
 
 ---
 
-## Phase 0 — Prerequisite Course Material (start here if new to the field)
+## Prerequisite Material (start here if new to the field)
 
 Read/watch alongside Phase 1, not instead of it. These give you the vocabulary the papers assume you already have.
 
@@ -16,7 +16,7 @@ Read/watch alongside Phase 1, not instead of it. These give you the vocabulary t
 
 ---
 
-## Phase 1 — The LLM Architecture Foundation (2017–2020)
+## The LLM Architecture Foundation (2017–2020)
 
 Read in this exact order — each paper assumes the previous one.
 
@@ -37,7 +37,7 @@ Read in this exact order — each paper assumes the previous one.
 
 ---
 
-## Phase 2 — Making LLMs Usable: Alignment & Reasoning (2020–2023)
+## Making LLMs Usable: Alignment & Reasoning (2020–2023)
 
 By this point you understand *how LLMs are built*. This phase covers *how they're made to behave usefully*.
 
@@ -64,7 +64,7 @@ By this point you understand *how LLMs are built*. This phase covers *how they'r
 
 ---
 
-## Phase 3 — Advanced RAG (2022–2023)
+## Advanced RAG (2022–2023)
 
 Now that you understand base RAG (#6–8) and reasoning (#11), this phase covers the techniques your **Advanced RAG Pipeline** project is directly built on.
 
@@ -85,7 +85,7 @@ Now that you understand base RAG (#6–8) and reasoning (#11), this phase covers
 
 ---
 
-## Phase 4 — Agentic AI Foundations (2022–2023)
+## Agentic AI Foundations (2022–2023)
 
 This is the conceptual base for your **LangGraph Multi-Agent Research Assistant**. Read Phase 2's reasoning papers (#11) before starting here.
 
@@ -109,7 +109,7 @@ This is the conceptual base for your **LangGraph Multi-Agent Research Assistant*
 
 ---
 
-## Phase 5 — Applied / Practitioner Resources (read throughout, not sequentially)
+## Applied / Practitioner Resources (read throughout, not sequentially)
 
 These aren't papers — they're the "how do I actually build this" layer. Dip into them as you implement each phase above rather than reading front-to-back.
 
